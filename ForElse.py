@@ -8,7 +8,7 @@ for Letter in Value:
 	if LetterNum > 6:
 		print("The string is too long!")
 		break
-		# TODO: test ho to use TODO comments
+
 
 else:
 	print("The string is blank.")
